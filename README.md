@@ -15,3 +15,12 @@ Let us take an example of car and engine. Engine is a part of each car and both 
 
 ![Composition Relationship](https://github.com/Muhammad-Ohee/Relationships-In-OOP/assets/87231565/c7c27f16-ae9e-4214-97fc-a2da847ba05c)
 
+**Association:**<br>
+
+Association is a “has-a” type relationship. Association establish the relationship b/w two classes using through their objects. Association relationship can be one to one, One to many, many to one and many to many. For example suppose we have two classes then these two classes are said to be “has-a” relationship if both of these entities share each other’s object for some work and at the same time they can exists without each others dependency or both have their own life time.
+
+![Association Relationship](https://github.com/Muhammad-Ohee/Relationships-In-OOP/assets/87231565/3529db12-9154-4e17-a571-b7a9dc066d2a)
+
+**Aggregation:**<br>
+
+Aggregation is based is on "has-a" relationship. Aggregation is a special form of association. In association there is not any classes (entity) work as owner but in aggregation one entity work as owner. In aggregation both entities meet for some work and then get separated. Aggregation is a one way association.
